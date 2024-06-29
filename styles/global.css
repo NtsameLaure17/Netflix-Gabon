@@ -1,0 +1,25 @@
+@import url(sections/header.css);
+@import url(sections/body.css);
+@import url(sections/footer.css);
+
+@import url(responsive.css);
+
+:root{
+    --roboto: "Roboto",sans-serif;
+
+    --primary-color: 0, 0, 0;
+    --secondary-color: 255, 255, 255;
+
+    --red-color: 255, 0, 0;
+    
+    --headline-font-size: 42px;
+    --headline-font-weight: 700px;
+
+
+    --subheadline-font-size: 22px;
+    --subheadline-font-weight: 400px;
+
+    --body-font-size: 18px;
+    }
+
+

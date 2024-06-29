@@ -1,0 +1,53 @@
+footer{
+    background-color: black;
+}
+
+.footer_list{
+padding-left: 200px;
+justify-content: evenly;
+}
+
+a{
+    color: white;
+}
+
+.introduction2{
+    padding-left: 200px;
+}
+
+.button_english{
+    width: 123px;
+    height: 32px;
+    border: 1px solid;
+    background-color: #0f0f0f;
+    border-color: white;
+    border-radius: 5px;
+    color: white;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h3{
+    color: white;
+    font-size: 15px;
+    padding-left: 200px;
+    padding-bottom: 30px;
+}
+
+.footer_list{
+    padding-top: 25px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+li{
+    padding-bottom: 15px;
+}
+
+
+
+
+

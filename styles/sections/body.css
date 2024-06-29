@@ -1,0 +1,182 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: rgba(0, 0, 0, 0.6);
+ background-blend-mode: darken;
+}
+
+.section1{
+    width: 100%;
+    height: 386px;
+    padding-top: 20px;
+    padding-bottom: 72px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding-left: 150px;
+    background-color: black;
+    border-top: 10px solid gray;
+    border-bottom: 10px solid gray;
+}
+
+.section1_text{
+    color: white;
+    display: grid;
+    gap: 50px;
+}
+
+.section1_title{
+    font-size: 50px;
+    font-weight: 600px;
+}
+
+.section1_description{
+    font-weight: 100;
+}
+
+.animation1{
+    width: 490px;
+    height: 315px;
+}
+
+.section2{
+    width: 100%;
+    height: 386px;
+    padding-top: 20px;
+    padding-bottom: 72px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding-left: 150px;
+    background-color: black;
+    border-bottom: 10px solid gray;
+}
+
+.section2_text{
+    color: white;
+    display: grid;
+    gap: 50px;
+}
+
+.section2_title{
+    font-size: 50px;
+    font-weight: 600px;
+}
+
+.section2_description{
+    font-weight: 100;
+}
+
+.animation2{
+    width: 490px;
+    height: 315px;
+}
+
+.section3{
+    width: 100%;
+    height: 386px;
+    padding-top: 20px;
+    padding-bottom: 72px;
+    display: grid;
+    align-items: center;
+    padding-left: 250px;
+    background-color: black;
+    border-bottom: 10px solid gray;   
+}
+
+.section3_title{
+    font-size: 50px;
+    font-weight: 600px;
+    color: white;
+}
+
+.section3_description{
+    font-weight: 100;
+    color: white;
+}
+
+.section4{
+    width: 100%;
+    height: 386px;
+    padding-top: 20px;
+    padding-bottom: 72px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding-left: 150px;
+    background-color: black;
+    border-bottom: 10px solid gray;
+}
+
+.section4_text{
+    color: white;
+    display: grid;
+    gap: 50px;
+}
+
+.section4_title{
+    font-size: 50px;
+    font-weight: 600px;
+}
+
+.section4_description{
+    font-weight: 100;
+}
+
+.animation4{
+    width: 490px;
+    height: 315px;
+}
+
+.section5{
+    width: 100%;
+    height: 778px;
+    display: grid;
+    flex-direction: row;
+    color: white;
+    background-color: black;
+    border-bottom: 10px solid gray;
+}
+
+.introduction{
+    padding-left: 350px;
+    font-size: 50px;
+    padding-top: 70px;
+}
+
+.questions{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.ctas5{
+    display: flex;
+    padding-top: 15px;
+    gap: 15px;
+    padding-left: 230px;
+}
+
+.button_question{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #414141;
+    color: white;
+    width: 1004px;
+    height: 80px;
+    padding: 24px;
+    font-size: 20px;
+}
+
+.section5_text{
+    padding-left: 200px;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
